@@ -4,6 +4,7 @@
   * First Skill
   * Second Skill
   * Third Skill
+  
 2. Please explain these three skills in your own words.
 
     `The third is more important than the first`
@@ -13,3 +14,5 @@
     * Cause it's a bad idea!
 
 4. Why is Practice and Persistence important?
+
+  * It's not just important, it's the law!
